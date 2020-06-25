@@ -1,1 +1,1 @@
-# 3d-network-graph-visualization
+# 3D-network-graph-visualization
