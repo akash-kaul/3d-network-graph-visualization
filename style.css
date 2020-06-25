@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.graph-data {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 200px;
+    padding: 5px;
+}
