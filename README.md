@@ -24,3 +24,4 @@ All code written with [Atom.](https://atom.io/)
 
 ## Credit
 Created by Akash Kaul
+[LinkedIn](https://www.linkedin.com/in/akash-kaul-6a8063194/)
